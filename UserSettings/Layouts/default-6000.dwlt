@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1512
     height: 916
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 18
+  controlID: 37
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 19
+  controlID: 38
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 20
+  controlID: 39
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -338,7 +338,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/geraldjones/Desktop/PersonalProjects/Basics
+  m_LastProjectPath: /Users/geraldjones/Desktop/PersonalProjects/UnityPractice
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -916,9 +916,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -1.295414, y: 1.7176127, z: 0.3145857}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -1.295414, y: 1.7176127, z: 0.3145857}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -964,13 +964,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.072092056, y: 0.89572513, z: -0.1577343, w: -0.40938887}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.072092056, y: 0.89572513, z: -0.1577343, w: -0.40938887}
   m_Size:
-    m_Target: 10
+    m_Target: 8.41914
     speed: 2
-    m_Value: 10
+    m_Value: 8.41914
   m_Ortho:
     m_Target: 0
     speed: 2
